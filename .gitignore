@@ -1,5 +1,5 @@
 .venv/*
 .vscode
-.dist
+dist/*
 *__pycache__*
 .xml

@@ -23,4 +23,4 @@ for i in range(8):
         rect.translate(j * margin + j * width, i * margin + i * height)
         page.add(rect)
 
-document.write('src/examples/output/color_cubes.xml')
+document.write('examples/output/color_cubes.xml')

@@ -38,8 +38,8 @@ class Document:
         self.Writer = Writer(settings_path, styles)
         self.Pages = []
         self.crop = False
-        self.width = 896
-        self.height = 896
+        self.width = 595
+        self.height = 842
         self.margin = Margin()
 
     def clear(self) -> None:

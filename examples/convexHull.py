@@ -53,4 +53,4 @@ page = document.copyPage(pagePoints)
 poly = Polygon(hull)
 page.add(poly)
 
-document.write('src/examples/output/convexHull.xml')
+document.write('examples/output/convexHull.xml')

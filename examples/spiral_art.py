@@ -41,4 +41,4 @@ for i in range(1,n):
     page.add(rect)
 
 
-document.write('src/examples/output/spiral.xml')
+document.write('examples/output/spiral.xml')

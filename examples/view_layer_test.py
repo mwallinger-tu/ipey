@@ -22,4 +22,4 @@ page.createView('view1', 'rectangles2')
 page.createView('view2', ['rectangles', 'rectangles2', 'test'])
 
 
-document.write('src/examples/output/layerTest.xml')
+document.write('examples/output/layerTest.xml')

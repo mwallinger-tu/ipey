@@ -105,6 +105,8 @@ class Page:
 
     def removeLayer(self, name):
 
+        self.Layers.remove(name)
+
         return
 
     '''
@@ -133,6 +135,9 @@ class Page:
             for layer in layers:
                 self.Views[name].remove(layer)
 
+    def removeView(self, name):
+        if name in self.Views:
+            self.Views.pop(name)
     '''
     ##################################################
     Drawing
