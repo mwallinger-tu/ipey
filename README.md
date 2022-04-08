@@ -2,6 +2,8 @@
 
 **ipey** is a python package that lets you programatically create **Ipe** drawings from python code. The project can be found on <a href='https://github.com/mwallinger-tu/ipey'>Github</a>.
 
+<img src="spiral.png"/>
+
 # Install
 
 **ipey** is available via pypi and can be installed by 
